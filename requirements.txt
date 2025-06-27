@@ -1,0 +1,4 @@
+numpy
+swig
+setuptools>=42
+wheel
