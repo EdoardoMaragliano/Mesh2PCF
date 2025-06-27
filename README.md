@@ -18,7 +18,7 @@ Make sure you have the required dependencies:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mesh2pcf.git
+   git clone https://github.com/EdoardoMaragliano/Mesh2PCF.git
    cd mesh2pcf
    python setup.py build_ext --inplace
    python setup.py install
