@@ -46,7 +46,8 @@ pip install .
 
 See the notebooks and scripts in the [`examples`](examples) folder for basic usage and demonstrations of the package.
 
-# Mesh2PCF
+See the following for a quick example.
+
 ```python
 import os
 
