@@ -28,6 +28,7 @@ Make sure you have the required dependencies:
 Install the python wrapper
 ```bash
 pip install .
+```
 
 ---
 
@@ -39,6 +40,7 @@ pip install .
    cd mesh2pcf
    python setup.py build_ext --inplace
    python setup.py install
+   ```
 
 ### Usage
 
@@ -71,3 +73,4 @@ xi4_r_mu_128 = test_2pcf_r_mu.get_hexadecapole()
 output = np.array([r_array, xi0_r_mu_128, xi2_r_mu_128, xi4_r_mu_128])
 
 np.save('xi_r_mu_128.npy', output)
+```
