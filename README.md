@@ -25,11 +25,6 @@ Make sure you have the required dependencies:
 - SWIG (for building from source)
 - A C++ compiler supporting OpenMP
 
-Install the python wrapper
-```bash
-pip install .
-```
-
 ---
 
 ### Installing from source
