@@ -70,3 +70,6 @@ output = np.array([r_array, xi0_r_mu_128, xi2_r_mu_128, xi4_r_mu_128])
 
 np.save('xi_r_mu_128.npy', output)
 ```
+
+## Acknowledgments
+I thank A. Veropalumbo for the OMPI parallelization.
