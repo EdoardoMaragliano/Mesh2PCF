@@ -72,4 +72,4 @@ np.save('xi_r_mu_128.npy', output)
 ```
 
 ## Acknowledgments
-I thank A. Veropalumbo for the OMPI parallelization.
+I thank A. Veropalumbo for the OMP parallelization.
