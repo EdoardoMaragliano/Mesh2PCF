@@ -1,6 +1,6 @@
 # mesh2pcf
 
-<img src="ChatGPT Image 15 set 2025, 13_14_21.png" alt="Esempio mesh2pcf" width="1024" height="512">
+<img src="photo.png" alt="photo" width="1024" height="512">
 
 
 `mesh2pcf` is a Python wrapper for a high-performance C++ library that computes the two-point correlation function (2PCF) multipoles from gridded density fields. It supports both isotropic and anisotropic measurements and uses OpenMP for fast execution.
